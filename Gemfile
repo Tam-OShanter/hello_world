@@ -26,6 +26,10 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 # Use to solve - TypeError: Object doesn't support this property or method
 gem 'coffee-script-source', '1.8.0'
 
+# USe to initiate Bootstrap gem
+gem 'bootstrap-sass'
+
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
